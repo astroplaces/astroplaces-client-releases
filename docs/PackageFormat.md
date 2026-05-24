@@ -120,7 +120,7 @@ The table of contents for a Gesture must contain the following keys:
   "id": "fun_wave_gesture",
   "name": "Friendly Wave",
   "author": "YourUsername",
-  "text": "*waves happily*",
+  "text": "waves happily",
   "animation": "wave.gif",
   "audio": "wave_sound.mp3"
 }
